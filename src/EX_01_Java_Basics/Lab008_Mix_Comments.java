@@ -1,6 +1,6 @@
 package EX_01_Java_Basics;
 
-public class Lab08_Mix_Comments {
+public class Lab008_Mix_Comments {
     /*
      * Name : Jyoti
      * Ph no : 9876543210
